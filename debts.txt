@@ -1,0 +1,6 @@
+A list of Gaborone customers owing at least P500
+===============================================
+1. 2001 | Kagiso Dibe | 71234567 | 1200.50
+
+Total of 1 client(s) owing at least P500 from Gaborone.
+Total owed: P1200.50
